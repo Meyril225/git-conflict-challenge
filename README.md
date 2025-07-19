@@ -1,1 +1,1 @@
-# git-conflict-challenge
+# Challenge github 1.6 : gérer les conflits et les fusions
