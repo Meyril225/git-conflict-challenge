@@ -1,1 +1,1 @@
-# git-conflict-challenge
+# challenge github 1.6 en local
