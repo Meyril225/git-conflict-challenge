@@ -1,1 +1,1 @@
-# challenge github 1.6 en local
+# Challenge github 1.6 : gérer les conflits et les fusions
